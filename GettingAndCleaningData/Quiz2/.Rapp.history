@@ -1,0 +1,13 @@
+install.packges("MySQL")
+install.packages("MySQL")
+install.packages("MySQL", type = "source")
+install.packages("RMySQL")
+install.packages("RMySQL", type = "source")
+library(RMySQL)
+exit
+quit
+getwd()
+setwd("Documents/")
+setwd("Personal/datasciencecoursera/GettingAndCleaningData/Quiz2/")
+source("https://github.com/hadley/httr/blob/master/demo/oauth2-github.r")
+source("https://github.com/hadley/httr/blob/master/demo/oauth2-github.r", "r")
